@@ -1,1 +1,4 @@
 deneme1 2 
+
+
+birkaç değişiklik daha yaptık
